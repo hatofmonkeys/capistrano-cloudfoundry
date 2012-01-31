@@ -1,0 +1,5 @@
+CF_APP = "env-test"
+CF_USER = "test@test.com"
+CF_PASSWD = "password"
+CF_TARGET = "api.test.com"
+CF_URL = "http://env-test.test.com"

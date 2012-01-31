@@ -1,0 +1,6 @@
+.vagrant
+Gemfile.lock
+Vagrantfile
+test_files/
+pkg/
+features/support/config.rb
